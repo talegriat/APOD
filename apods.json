@@ -1,0 +1,17 @@
+{ 
+	"apods": 
+		[
+			{
+				"name": "ShotA",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+				"dimensions": "3200x2560"
+			},
+			{
+				"name": "ShotB",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+				"dimensions": "3200x2560"
+			}
+		]
+}
