@@ -1,17 +1,234 @@
 { 
 	"apods": 
 		[
-			{
-				"name": "ShotA",
-				"author": "Someone",
-				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-				"dimensions": "3200x2560"
-			},
-			{
-				"name": "ShotB",
-				"author": "Someone",
-				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-				"dimensions": "3200x2560"
-			}
-		]
+{
+  "copyright": "Miloslav\nDruckmullerBrno University of Technology", 
+  "date": "2018-01-14", 
+  "explanation": "Diffuse starlight and dark nebulae along the southern Milky Way arc over the horizon and sprawl diagonally through this gorgeous nightscape. The breath-taking mosaic spans a wide 100 degrees, with the rugged terrain of the Patagonia, Argentina region in the foreground. Along with the insider's view of our own galaxy, the image features our outside perspective on two irregular satellite galaxies - the Large and Small Magellanic Clouds. The scene also captures the broad tail and bright coma of Comet McNaught, the Great Comet of 2007.   Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/cometmcnaught_druckmuller_1084.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Three Galaxies and a Comet", 
+  "url": "https://apod.nasa.gov/apod/image/1801/cometmcnaught_druckmuller_960.jpg"
+},
+{
+  "copyright": "John Kraus", 
+  "date": "2018-01-13", 
+  "explanation": "A composite of three consecutive exposures, this night skyscape follows the January 7 launch and first stage landing of a Falcon 9 rocket from a beach on planet Earth's space coast. With the launch from Cape Canaveral Air Force Station, the bright streak beginning farthest left traces the initial phase of the rocket's flight. A visible upward hook marks the first stage beginning its return trajectory with a \"boostback burn\" near the top of the arc, while the second stage separates and continues toward orbit. Above the top of the launch arc due to perspective, a bright streak shows the returning first stage slowing and descending toward the Cape. Centered below, the streak at the horizon is a 17 second burn finally slowing the first stage to a successful vertical landing about 8 minutes after launch at Landing Zone 1. During the scene's effective long exposure time, the background stars leave short trails in the night sky of the rotating planet.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/DSC_0022-Edit.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Launch and Landing", 
+  "url": "https://apod.nasa.gov/apod/image/1801/DSC_0022-Edit1024.jpg"
+},
+{
+  "copyright": "Damian Peach", 
+  "date": "2018-01-12", 
+  "explanation": "Discovered with the PanSTARRS telescope on September 7, 2016, this Comet PanSTARRS, C/2016 R2, is presently about 24 light minutes (3 AU) from the Sun, sweeping through planet Earth's skies across the background of stars in the constellation Taurus. An inbound visitor from our Solar System's distant Oort Cloud, its beautiful and complex ion tail is a remarkable shade of blue. Still relatively far from the Sun, the comet's already well-developed ion tail is very impressive. Emission from unusually abundant ionized carbon monoxide (CO+) molecules fluorescing in the increasing sunlight is largely responsible for the pretty blue tint. This color image of the blue comet is a combination of data taken from two different telescopes during the night of January 7. Located at the apex of the V-shaped Hyades star cluster in Taurus, bright star Gamma Tauri is responsible for the glow at the bottom left corner of the frame.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/c2016_r2_2018_01_07dpjjc.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Blue Comet PanSTARRS", 
+  "url": "https://apod.nasa.gov/apod/image/1801/c2016_r2_2018_01_07dpjjc1024.jpg"
+},
+{
+  "copyright": "Andrew Campbell", 
+  "date": "2018-01-11", 
+  "explanation": "Large and dramatically shaped, this cosmic cloud spans nearly 7 degrees or 14 full moons across planet Earth's sky toward the southern constellation Ara. Difficult to image, the filamentary apparition is cataloged as RCW 114 and traced in this telescopic mosaic by the telltale reddish emission of ionized hydrogen atoms. In fact, RCW 114 has been recognized as a supernova remnant. Its extensive filaments of emission are produced as the still expanding shockwave from the death explosion of a massive star sweeps up the surrounding interstellar medium. Consistent estimates place its distance at over 600 light-years, indicating a diameter of about 100 light-years or so. Light from the supernova explosion that created RCW 114 would have reached Earth around 20,000 years ago. A spinning neutron star or pulsar has recently been identified as the remains of the collapsed stellar core.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/RCW114_FBcambell.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "RCW 114: A Dragon's Heart in Ara", 
+  "url": "https://apod.nasa.gov/apod/image/1801/RCW114_FBcambell1024.jpg"
+},
+{
+  "date": "2018-01-10", 
+  "explanation": "Where do stars form when galaxies collide? To help find out, astronomers imaged the nearby galaxy merger NGC 2623 in high resolution with the Hubble Space Telescope. Analysis of this and other Hubble images as well as images of NGC 2623 in infrared light by the Spitzer Space Telescope, in X-ray light by XMM-Newton, and in ultraviolet light by GALEX, indicate that two originally spiral galaxies appear now to be greatly convolved and that their cores have unified into one active galactic nucleus (AGN). Star formation continues around this core near the featured image center, along the stretched out tidal tails visible on either side, and perhaps surprisingly, in an off-nuclear region on the upper left where clusters of bright blue stars appear.   Galaxy collisions can take hundreds of millions of years and take several gravitationally destructive passes. NGC 2623, also known as Arp 243, spans about 50,000 light years and lies about 250 million light years away toward the constellation of the Crab (Cancer).  Reconstructing the original galaxies and how galaxy mergers happen is often challenging, sometimes impossible, but generally important to understanding how our universe evolved.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/Arp243_Hubble_3978.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "NGC 2623: Merging Galaxies from Hubble", 
+  "url": "https://apod.nasa.gov/apod/image/1801/Arp243_Hubble_960.jpg"
+},
+{
+  "date": "2018-01-09", 
+  "explanation": "It is one of the brightest planetary nebulae on the sky -- what should it be named? First discovered in 1878, nebula NGC 7027 can be seen toward the constellation of the Swan (Cygnus) with a standard backyard telescope. Partly because it appears there as only an indistinct spot, it is rarely referred to with a moniker. When imaged with the Earth-orbiting Hubble Space Telescope, however, great details are revealed. Studying Hubble images of NGC 7027 have led to the understanding that it is a planetary nebula that began expanding about 600 years ago, and that the cloud of gas and dust is unusually massive as it appears to contain about three times the mass of our Sun. Pictured here in assigned colors, the resolved, layered, and dust-laced features of NGC 7027 might remind sky enthusiasts of a familiar icon that could be the basis for an informal name. A leading previous suggestion was the Pillow Nebula, but please feel free to make new suggestions -- for example, in an online APOD discussion forum.   Free APOD Lecture Tonight near Washington, DC: Starting at 7 pm at the National Harbor", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/NGC7027_HubbleSchmidt_960.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Bright Planetary Nebula NGC 7027 from Hubble", 
+  "url": "https://apod.nasa.gov/apod/image/1801/NGC7027_HubbleSchmidt_960.jpg"
+},
+{
+  "copyright": "Daniel L\u00f3pezIAC", 
+  "date": "2018-01-08", 
+  "explanation": "What are those red clouds surrounding the Andromeda galaxy? This galaxy, M31, is often imaged by planet Earth-based astronomers. As the nearest large spiral galaxy, it is a familiar sight with dark dust lanes, bright yellowish core, and spiral arms traced by clouds of bright blue stars.  A mosaic of well-exposed broad and narrow-band image data, this colorful portrait of our neighboring island universe offers strikingly unfamiliar features though, faint reddish clouds of glowing ionized hydrogen gas in the same wide field of view. These ionized hydrogen clouds surely lie in the foreground of the scene, well within our Milky Way Galaxy. They are likely associated with the pervasive, dusty interstellar cirrus clouds scattered hundreds of light-years above our own galactic plane.   Free APOD Lecture Tomorrow: January 9 at the National Harbor near Washington, DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/M31Clouds_DLopez_1500.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Clouds of Andromeda", 
+  "url": "https://apod.nasa.gov/apod/image/1801/M31Clouds_DLopez_960.jpg"
+},
+{
+  "date": "2018-01-07", 
+  "explanation": "One of the greatest unrequited legends of outer space is the tether.  Tethers, long strands of material, hold the promise of stabilizing satellites, generating electricity, and allowing easy transportation.  Possibly the most ambitious vision of the space tether is the space elevator popularized by Arthur C. Clarke, where a tether is constructed that connects the ground to geosynchronous orbit.  One problem is strength - it is difficult to make a long useful tether that does not snap.  Pictured here is the deployment of the Tethered Satellite System 1 (TSS-1) by the space shuttle Altantis in 1992.  Like other tested tethers, TSS-1 failed to live up to its promise, although many valuable lessons were learned.   Free APOD Lecture: January 9 in DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/tether_tss1_960.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "A Tether in Space", 
+  "url": "https://apod.nasa.gov/apod/image/1801/tether_tss1_960.jpg"
+},
+{
+  "copyright": "Dong Han", 
+  "date": "2018-01-06", 
+  "explanation": "Lately, bright Jupiter and fainter Mars have been easy to spot for early morning skygazers. Before dawn on January 7 the two naked-eye planets will reach a close conjunction near the horizon, only 1/4 degree apart in predawn eastern skies. That apparent separation corresponds to about half the angular diameter of a Full Moon. Just off the wing of a high-flying aircraft in this snapshot from early morning January 5, Jupiter (left) and Mars (middle) are also lined-up with the well-balanced Zubenelgenubi (right), alpha star of the constellation Libra. Below are lights from central Europe near Prague, Czech Republic, planet Earth.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/DSC07952JupMars_DHan.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Planets on the Wing", 
+  "url": "https://apod.nasa.gov/apod/image/1801/DSC07952JupMars_DHan1024.jpg"
+},
+{
+  "copyright": "William Vrbasso", 
+  "date": "2018-01-05", 
+  "explanation": "A jewel of the southern sky, the Great Carina Nebula, also known as NGC 3372, is one of our galaxy's largest star forming regions. Easily visible to the unaided eye it stands high above the signature hill of Lake Ballard, ephemeral salt lake of Western Australia, in this serene night skyscape from December 25, 2017. The Milky Way itself stretches beyond the southern horizon. Along the Milky Way, bright stars Alpha and Beta Centauri lie just above the hill's right flank, with the Southern Cross and dark Coalsack Nebula above the hill top. Based on a 22 panel mosaic, the scene was cropped to reveal more closely the beauty of this region of the southern Milky Way. On that short summer night, a star tracking camera mount was used to record the mosaic images of the sky, but turned off to image the foreground in moonlight.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/CarinaLakeBallard_vrbasso_WebCrop2048.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Carina over Lake Ballard", 
+  "url": "https://apod.nasa.gov/apod/image/1801/CarinaLakeBallard_vrbasso_WebCrop1024.jpg"
+},
+{
+  "copyright": "Detlef Hartmann", 
+  "date": "2018-01-04", 
+  "explanation": "The Crab Nebula is cataloged as M1, the first on Charles Messier's famous lis", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/M1Hartmann_2011crop1067.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "M1: The Incredible Expanding Crab", 
+  "url": "https://apod.nasa.gov/apod/image/1801/M1Hartmann_2011crop1067.jpg"
+},
+{
+  "date": "2018-01-03", 
+  "explanation": "Will our Sun look like this one day?  The Helix Nebula is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The Helix Nebula, given a technical designation of NGC 7293, lies about 700 light-years away towards the constellation of the Water Bearer (Aquarius) and spans about 2.5 light-years. The featured picture was taken with the Canada-France-Hawaii Telescope (CFHT) located atop a dormant volcano in Hawaii, USA. A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin.   Free APOD Lectures: January 5 in NYC & January 9 in DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/Helix_CFHT_2000.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "The Helix Nebula from CFHT", 
+  "url": "https://apod.nasa.gov/apod/image/1801/Helix_CFHT_960.jpg"
+},
+{
+  "date": "2018-01-02", 
+  "explanation": "Why does the Perseus galaxy cluster shine so strangely in one specific color of X-rays? No one is sure, but a much-debated hypothesis holds that these X-rays are a clue to the long-sought identity of dark matter. At the center of this mystery is a 3.5 Kilo-electronvolt (KeV) X-ray color that appears to glow excessively only when regions well outside the cluster center are observed, whereas the area directly surrounding a likely central supermassive black hole is actually deficient in 3.5 keV X-rays. One proposed resolution -- quite controversial -- is that something never seen before might be present: fluorescent dark matter (FDM). This form of particle dark matter might be able to absorb 3.5 keV X-radiation.  If operating, FDM, after absorption, might later emit these X-rays from all over the cluster, creating an emission line. However, when seen superposed in front of the central region surrounding the black hole, FDM's absorption would be more prominent, creating an absorption line.  Pictured, a composite image of the Perseus galaxy cluster shows visible and radio light in red, and X-ray light from the Earth-orbiting Chandra Observatory in blue.    Free APOD Lectures: January 5 in NYC & January 9 in DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1801/PerseusCluster_DSSChandra_3600.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Unexpected X-Rays from Perseus Galaxy Cluster", 
+  "url": "https://apod.nasa.gov/apod/image/1801/PerseusCluster_DSSChandra_960.jpg"
+},
+{
+  "date": "2017-12-31", 
+  "explanation": "What would it be like to fly free in space?  At about 100 meters from the cargo bay of the space shuttle Challenger, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an \"untethered space walk\" during Space Shuttle mission 41-B in 1984.  The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was replaced with the SAFER backpack propulsion unit.   Memorial: Astronaut Bruce McCandless II Dies at 80", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/freeflyer_nasa_3000.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "To Fly Free in Space", 
+  "url": "https://apod.nasa.gov/apod/image/1712/freeflyer_nasa_960.jpg"
+},
+{
+  "date": "2017-12-30", 
+  "explanation": "Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground -- behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module's ascent stage liftoff via the rover's TV camera, this parking place was also known as the VIP Site. In December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/a17anaglyph_vanMeijgaarden_f.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Apollo 17 VIP Site Anaglyph", 
+  "url": "https://apod.nasa.gov/apod/image/1712/a17anaglyph_vanMeijgaarden_1024v.jpg"
+},
+{
+  "copyright": "Fabian Neyer", 
+  "date": "2017-12-29", 
+  "explanation": "Interstellar dust clouds and glowing nebulae abound in the fertile constellation of Orion. One of the brightest, M78, is centered in this colorful, wide field view, covering an area north of Orion's belt. At a distance of about 1,500 light-years, the bluish reflection nebula is around 5 light-years across. Its tint is due to dust preferentially reflecting the blue light of hot, young stars. Reflection nebula NGC 2071 is just to the left of M78. To the right, and much more compact in appearance, the intriguing McNeil's Nebula is a recently recognized variable nebula associated with a young sun-like star. Deeper red flecks of emission from Herbig-Haro objects, energetic jets from stars in the process of formation, stand out against the dark dust lanes. The exposure also brings out the region's fainter pervasive glow of atomic hydrogen gas.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/m78_l2_neyer2048.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "M78 Wide Field", 
+  "url": "https://apod.nasa.gov/apod/image/1712/m78_l2_neyer1024.jpg"
+},
+{
+  "date": "2017-12-28", 
+  "explanation": "Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color Chandra X-ray Observatory image shows the still hot filaments and knots in the Cassiopeia A remnant. High-energy emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy's star stuff - Still expanding, the blast wave is seen as the blue outer ring. The sharp X-ray image, spans about 30 light-years at the estimated distance of Cassiopeia A. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/casa_life.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Recycling Cassiopeia A", 
+  "url": "https://apod.nasa.gov/apod/image/1712/casa_life.jpg"
+},
+{
+  "date": "2017-12-27", 
+  "explanation": "One of the most identifiable nebulae in the sky, the Horsehead Nebula in Orion, is part of a large, dark, molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead's neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula's base are young stars just in the process of forming.  Light takes about 1,500 years to reach us from the Horsehead Nebula.  The featured image was taken with the large 3.6-m Canada-France-Hawaii Telescope in Hawaii, USA.   Free APOD Lectures: January 5 in NYC & January 9 in DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/Horsehead_CFHT_960.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "The Horsehead Nebula", 
+  "url": "https://apod.nasa.gov/apod/image/1712/Horsehead_CFHT_960.jpg"
+},
+{
+  "date": "2017-12-26", 
+  "explanation": "Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Leading theories indicate that even greater amounts of matter are invisible, in a form we don't yet know. This pervasive dark matter is postulated, in part, to explain the motions of the visible matter in the outer regions of galaxies.    Free APOD Lectures: January 5 in NYC & January 9 in DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/ngc1232b_vlt_3969.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Grand Spiral Galaxy NGC 1232", 
+  "url": "https://apod.nasa.gov/apod/image/1712/ngc1232b_vlt_960.jpg"
+},
+{
+  "copyright": "Yang Sutie", 
+  "date": "2017-12-25", 
+  "explanation": "Something very bright suddenly lit up the arctic -- what was it? The original idea was to take a series of aurora images that could be made into a time-lapse video.  But when night suddenly turned into day, the astrophotographer quickly realized that he was seeing something even more spectacular. Moving through the sky -- in front of the Big Dipper no less -- was a Geminid meteor so bright it could be called a fireball. The meteor brightened and flashed for several seconds as it went.  By a stroke of good fortune, the aurora camera was able to capture the whole track. Taken the night after the Geminids Meteor Shower peaked, the astrophotographer's location was near Lovozero Lake in Murmansk, Russia, just north of the Arctic Circle.   Free APOD Lectures: January 5 in NYC & January 9 in DC", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/ArcticGeminid_Sutie_3500.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Fireball in the Arctic", 
+  "url": "https://apod.nasa.gov/apod/image/1712/ArcticGeminid_Sutie_1080.jpg"
+},
+{
+  "copyright": "Craig Bobchin", 
+  "date": "2017-12-24", 
+  "explanation": "What's happened to the sky? On Friday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. Lifting off during a minuscule one-second launch window, the Falcon 9 rocket successfully delivered to low Earth orbit ten Iridium NEXT satellites that are part of a developing global communications network. The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Several good videos of the launch were taken.  The featured image was captured from Orange County, California, in a 2.5 second duration exposure.   Gallery: More images of the SpaceX launch", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/SpaceXLaunch_Bobchin_5407.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "SpaceX Rocket Launch Plume over California", 
+  "url": "https://apod.nasa.gov/apod/image/1712/SpaceXLaunch_Bobchin_960.jpg"
+},
+{
+  "copyright": "Mikiya Sato", 
+  "date": "2017-12-23", 
+  "explanation": "Based on its well-measured orbit, 3200 Phaethon (sounds like FAY-eh-thon) is recognized as the source of the meteroid stream responsible for the annual Geminid meteor shower. Even though most meteor showers' parents are comets, 3200 Phaethon is a known and closely tracked near-Earth asteroid with a 1.4 year orbital period. Rocky and sun-baked, its perihelion or closest approach to the Sun is well within the orbit of innermost planet Mercury. In this telescopic field of view, the asteroid's rapid motion against faint background stars of the heroic constellation Perseus left a short trail during the two minute total exposure time. The parallel streaks of its meteoric children flashed much more quickly across the scene. The family portrait was recorded near the Geminid meteor shower's very active peak on December 13. That was just before 3200 Phaethon's historic December 16 closest approach to planet Earth.   Gallery: Images from yesterday's photogenic SpaceX launch in California", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/MSato_Phaethon-and-Geminids-small.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Phaethon's Brood", 
+  "url": "https://apod.nasa.gov/apod/image/1712/MSato_Phaethon-and-Geminids-1100.jpg"
+},
+{
+  "copyright": "Jeff Dai", 
+  "date": "2017-12-22", 
+  "explanation": "From dark skies above Heilongjiang province in northeastern China, meteors rain down on a wintry landscape in this beautiful composited night scene. The 48 meteors are part of last week's annual Geminid meteor shower. Despite temperatures of -28 degrees C, all were recorded in camera exposures made during the peak hour of the celestial spectacle. They stream away from the shower's radiant high above the horizon near the two bright stars of the zodiacal constellation of the Twins. A very active shower, this year the December 13-14 peak of the Geminids arrived just before the December 16 closest approach of asteroid 3200 Phaethon to planet Earth. Mysterious 3200 Phaethon is the Geminid shower's likely parent body.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/GeminidMeteorShowerOverChina-Dai1500.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Gemini's Meteors", 
+  "url": "https://apod.nasa.gov/apod/image/1712/GeminidMeteorShowerOverChina-Dai1024.jpg"
+},
+{
+  "copyright": "Stefan Seip", 
+  "date": "2017-12-21", 
+  "explanation": "Welcome to December's solstice, first day of winter in the north and summer for the southern hemisphere. Astronomical markers of the seasons, solstice and equinox dates are based on the Sun's place in its annual journey along the ecliptic, through planet Earth's sky. At this solstice, the Sun reaches its maximum southern declination of -23.5 degrees today at 16:28 UTC, while its right ascension coordinate on the celestial sphere is 18 hours. That puts the Sun in the constellation Sagittarius in a direction near the center of our Milky Way galaxy. In fact, if you could see today's Solstice Sun against faint background stars and nebulae (that's really hard to do, especially in the daytime ...) your view might look something like this composited panorama. To make it, images of our fair galaxy were taken under dark Namibian night skies, then stitched together in a panoramic view. From a snapshot made on December 21, 2015, the Sun was digitally overlayed as a brilliant star at today's northern winter solstice position, close to the center of the Milky Way.", 
+  "hdurl": "https://apod.nasa.gov/apod/image/1712/WinterSolsticeMW_Seip.jpg", 
+  "media_type": "image", 
+  "service_version": "v1", 
+  "title": "Solstice Sun and Milky Way", 
+  "url": "https://apod.nasa.gov/apod/image/1712/WinterSolsticeMW_Seip1100c.jpg"
+}
 }
